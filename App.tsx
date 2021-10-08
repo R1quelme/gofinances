@@ -9,6 +9,8 @@ import { StatusBar } from 'react-native';
 
 import { NavigationContainer } from '@react-navigation/native'
 
+import { AuthContext } from './src/AuthContext';
+
 import {
     useFonts,
     Poppins_400Regular,
@@ -17,7 +19,10 @@ import {
 } from '@expo-google-fonts/poppins'
 
 import theme from './src/Global/styles/theme';
+
 import { AppRoutes } from './src/routes/app.routes';
+
+import { SignIn } from './src/screens/SignIn';
 
 export default function App(){
     const [fontsLoaded] = useFonts({
@@ -34,7 +39,10 @@ export default function App(){
         <ThemeProvider theme={theme}>
             <NavigationContainer>
                 <StatusBar barStyle="light-content" />
-                <AppRoutes />
+                {/* <AppRoutes /> */}
+                <AuthContext.Provider value={[]}>
+                    <SignIn />
+                </AuthContext.Provider>
             </NavigationContainer>
         </ThemeProvider>
     )
