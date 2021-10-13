@@ -7,7 +7,7 @@ import AppLoading from 'expo-app-loading';
 import { ThemeProvider } from 'styled-components';
 import { StatusBar } from 'react-native';
 
-import { NavigationContainer } from '@react-navigation/native'
+import { Routes } from './src/routes'
 
 import { AuthContext } from './src/AuthContext';
 
@@ -39,13 +39,11 @@ export default function App(){
 
     return (
         <ThemeProvider theme={theme}>
-            <NavigationContainer>
                 <StatusBar barStyle="light-content" />
                 {/* <AppRoutes /> */}
                 <AuthProvider>
-                    <SignIn />
+                    <Routes />
                 </AuthProvider>
-            </NavigationContainer>
         </ThemeProvider>
     )
 }
