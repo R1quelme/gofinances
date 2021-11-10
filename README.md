@@ -13,6 +13,30 @@
 <strong>GoFinances</strong> is a development project <strong>mobile</strong>. It is an app to help people manage their spend in a simple and secure way.
 
 <br>  
+<a id="howtouse"></a>
+
+## :dart: How to use
+Clone the repository
+
+```bash
+https://github.com/R1quelme/gofinances.git
+```
+
+```bash
+# Enter the project folder
+cd gofinances
+
+# Install the dependencies
+yarn
+# or
+npm install
+
+# Start the expo
+expo start
+```
+
+<br>  
+
 <a id="technologies"></a>
 
 ## :computer: Technologies used
