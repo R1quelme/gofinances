@@ -5,13 +5,14 @@
     <a href="#about">About</a> | <a href="#howtouse">How to use</a> | <a href="#technologies">Technologies</a> 
 </div>
 
+<br>
 <a id="sobre"></a>
 
 ## :recycle: Sobre Projeto Ecoleta
 
 <strong>Ecoleta</strong> é um projeto de desenvolvimento <strong>fullstack</strong> (API REST + Web front-end + Mobile). Trata-se de um marketplace para auxiliar as pessoas a encontrarem pontos de coleta de resíduos.
 
-
+<br>
 <a id="tecnologias"></a>
 
 ## :computer: Tecnologias
