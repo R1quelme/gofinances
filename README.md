@@ -8,9 +8,9 @@
 <br>
 <a id="sobre"></a>
 
-## :recycle: Sobre Projeto Ecoleta
+## :recycle: About the project GoFinances
 
-<strong>Ecoleta</strong> é um projeto de desenvolvimento <strong>fullstack</strong> (API REST + Web front-end + Mobile). Trata-se de um marketplace para auxiliar as pessoas a encontrarem pontos de coleta de resíduos.
+<strong>GoFinances</strong> is a development project <strong>mobile</strong>. It is an app to help people manage their spend in a simple and secure way.
 
 <br>
 <a id="tecnologias"></a>
