@@ -6,32 +6,27 @@
 </div>
 
 <br>
-<a id="sobre"></a>
+<a id="about"></a>
 
-## :recycle: About the project GoFinances
+## :pencil: About the project GoFinances
 
 <strong>GoFinances</strong> is a development project <strong>mobile</strong>. It is an app to help people manage their spend in a simple and secure way.
 
-<br>
-<a id="tecnologias"></a>
+<br>  
+<a id="technologies"></a>
 
-## :computer: Tecnologias
+## :computer: Technologies used
 
 O projeto foi desenvolvido utilizando as tecnologias:
 
-- [Node.js](https://nodejs.org/en/)
-- [ReactJS](https://reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [React Native](https://reactnative.dev/) - Mobile Framework
+- [Typescript](https://www.typescriptlang.org/) - Superset Javascript
 
-Principais bibliotecas utilizadas (lista completa nas dependências listadas no arquivo package.json na raíz de cada uma das três pastas - [server](/server/package.json), [web](web/package.json) e [mobile](mobile/package.json)):
+Principais bibliotecas utilizadas (lista completa nas dependências listadas no arquivo package.json na raíz do projeto).
 
-- [Express](https://expressjs.com/)
-- [Knex](https://knexjs.org)
-- [Sqlite3](https://www.sqlite.org/)
-- [Multer](https://github.com/expressjs/multer)
-- [Axios](https://github.com/axios/axios)
-- [Leaflet](https://leafletjs.com/)
-- [React-dropzone](https://react-dropzone.js.org/)
-- [React-icons](https://react-icons.github.io/react-icons/)
-- [Expo](https://expo.io/)
+- [Styled-Components](https://styled-components.com/) - CSS in JS
+- [React Native Gesture Handler](https://docs.swmansion.com/react-native-gesture-handler/) - Util Buttons Platform
+- [React Navigation](https://reactnavigation.org/) - Control navigation app
+- [React Hook Form](https://react-hook-form.com/) - Control forms app
+- [Yup](https://github.com/jquense/yup) - Control validations forms app
+- [Expo](https://expo.io/) - Development
