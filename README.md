@@ -56,5 +56,5 @@ Principais bibliotecas utilizadas (lista completa nas dependências listadas no 
 - [Expo](https://expo.io/) - Development
 
 <br>
-<img alt="GoFinancesApp" title="GoFinancesApp" src="https://github.com/R1quelme/gofinances/blob/master/src/assets/telasApp.jpeg" width="300px" />
+<img alt="GoFinancesApp" title="GoFinancesApp" src="https://github.com/R1quelme/gofinances/blob/master/src/assets/telasApp.jpeg" width="500px" />
 
