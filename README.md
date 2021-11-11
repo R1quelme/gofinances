@@ -54,3 +54,7 @@ Principais bibliotecas utilizadas (lista completa nas dependências listadas no 
 - [React Hook Form](https://react-hook-form.com/) - Control forms app
 - [Yup](https://github.com/jquense/yup) - Control validations forms app
 - [Expo](https://expo.io/) - Development
+
+<br>
+<img alt="GoFinancesApp" title="GoFinancesApp" src="https://github.com/R1quelme/gofinances/blob/master/src/assets/telasApp.jpeg" width="300px" />
+
