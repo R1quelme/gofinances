@@ -33,6 +33,9 @@ npm install
 
 # Start the expo
 expo start
+
+# Login google
+Colocar credencias google como no arquivo env.example
 ```
 
 <br>  
