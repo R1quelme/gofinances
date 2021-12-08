@@ -88,8 +88,8 @@ export function Dashboard(){
         let entriesTotal = 0;
         let expensiveTotal = 0;
 
-        const transactionsFormatted: DataListProps[] = transactions
-         .map((item: DataListProps) => {
+        const transactionsFormatted: DataListProps[] =
+        transactions.map((item: DataListProps) => {
 
             if(item.type === 'positive'){
                 entriesTotal += Number(item.amount);
